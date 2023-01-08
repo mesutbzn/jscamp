@@ -1,4 +1,4 @@
-console.log("Merhabalaaar javascript");
+console.log("Merhaba javascript, ben Mesut");
 
 let konutKredileri=["Konut Kredisi", "Emlak Konut Kredisi",    "Kamu Konut Kredisi"];
 
